@@ -1,0 +1,8 @@
+/.idea/misc.xml
+/.idea/vcs.xml
+/.idea/encodings.xml
+/incense-backend/incense.db
+/.idea/
+/incense-frontend/build/
+/incense-frontend/node_modules/
+/incense-frontend/target/
