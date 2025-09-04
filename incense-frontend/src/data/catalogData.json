@@ -1,0 +1,48 @@
+[
+{
+"id": 1,
+"name": "Jaswand Chandan",
+"price": 85.00,
+"category": "Incense Sticks",
+"image": "../products/jaswand-chandan.jpg",
+"rating": 4.5,
+"reviews": 128
+},
+{
+"id": 2,
+"name": "Kevada Agarbatti",
+"price": 45.00,
+"category": "Incense Sticks",
+"image": "../products/kevda-agarbatti.jpg",
+"rating": 4.2,
+"reviews": 89
+},
+{
+"id": 3,
+"name": "Chandan Loban",
+"price": 90,
+"category": "Dhoop stick",
+"image": "../products/chandan-loban.jpg",
+"rating": 4.7,
+"reviews": 203
+},
+{
+"id": 4,
+"name": "Ayurvedik",
+"price": 180,
+"category": "Cup Dhoop",
+"image": "../products/ayurvedik.jpg",
+"rating": 4.8,
+"reviews": 156
+},
+{
+"id": 5,
+"name": "Ashtagandh powder",
+"price": 100,
+"category": "Pooja Samagri",
+"image": "../products/ashtagandh-powder.jpg",
+"rating": 4.6,
+"reviews": 94,
+"isNew": true
+}
+  ]
