@@ -1,0 +1,47 @@
+{
+  "name": "ecommerce-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "description": "E-commerce Seller Dashboard",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.12",
+    "axios": "^0.27.2",
+    "lucide-react": "^0.292.0",
+    "postcss": "^8.4.21",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "redux": "^4.2.0"
+  },
+  "devDependencies": {
+    "binary-extensions": "^2.2.0",
+    "eslint": "^8.20.0",
+    "eslint-config-react-app": "^7.0.1",
+    "eslint-plugin-react": "^7.31.8",
+    "react-redux": "^8.0.2",
+    "react-router-dom": "^7.7.1",
+    "react-scripts": "^5.0.1",
+    "redux-devtools-extension": "^2.13.9",
+    "redux-thunk": "^2.4.1",
+    "react-router-dom": "^6.4.3",
+    "tailwindcss": "^3.2.4"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
